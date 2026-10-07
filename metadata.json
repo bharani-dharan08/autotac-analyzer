@@ -1,0 +1,6 @@
+{
+  "name": "AutoTAC Network Root Cause Analyzer",
+  "description": "Automated PCAP and PCAPNG root cause analysis engine. Parse packet streams, calculate TCP retransmission rates, locate performance bottlenecks, flag DNS server errors, and inspect security leaks in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
